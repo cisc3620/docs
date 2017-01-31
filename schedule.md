@@ -40,3 +40,4 @@ Lecture | Date | Topic | Slides | More
 27| Tues. 5/16	| | |
 28| Thurs. 5/18	| | |
   | Tues. 5/23 | __Final__ |
+{:mbtablestyle}

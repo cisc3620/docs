@@ -1,7 +1,6 @@
 ---
 layout: default
 title: home
-redirect_from: "index.md"
 ---
 
 __Instructor__: [Rivka Levitan](http://www.sci.brooklyn.cuny.edu/~levitan/)
