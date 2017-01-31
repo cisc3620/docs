@@ -13,6 +13,8 @@ __Email__: proflevitan at gmail. Subject must include <CISC 3620>. Do not use ot
 
 __Office hours__: 9:00-10:45 Tuesday
 
+__url__: https://cisc3620.github.io/docs/syllabus.html
+
 ## Course objectives:
 This course will concentrate on 3D image modeling. We will cover
 
