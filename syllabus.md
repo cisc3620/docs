@@ -7,7 +7,7 @@ __Instructor__: [Rivka Levitan](http://www.sci.brooklyn.cuny.edu/~levitan/)
 
 __Time__: T/Th, 11:00-12:15
 
-__Location__: Ingersoll Hall, 3146
+__Location__: WEB 129
 
 __Email__: proflevitan at gmail. Subject must include <CISC 3620>. Do not use other emails.
 

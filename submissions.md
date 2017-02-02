@@ -43,6 +43,10 @@ cmake -G "Visual Studio 14 Win64" ..
 
 Edit the project files to fulfill the assignment requirements.
 
+## Ask for help
+
+If you are running into difficulty with your project you can ask for help by opening an issue  and @mentioning me (@rivlev). Please note that full-scale debugging or code review can only happen during office hours.
+
 ## Stage your files
 
 From the top level of the repository:
