@@ -11,10 +11,10 @@ Lecture | Date | Topic | Slides | More
 2 | Tues. 2/2  | Vector math | [slides](https://drive.google.com/open?id=0B-t5ghDb_TCqcHE3WmxQNUlGN00) | 
 3 | Thurs. 2/7 | OpenGL | [OpenGL tutorial: "Getting started" through "Hello triangle"](https://www.learnopengl.com) | [lab 2: draw a house](https://classroom.github.com/assignment-invitations/6ec0bb99bed4468c83704f40e5bac6a2)
 4	|	Thurs. 2/9	|	Transformations |	|
-5	|	Tues. 2/14	|	Transformations cont. |	| [lab 4: draw and animate a shape]
-6	|	Thurs. 2/16	|	Viewing |	|
+5	|	Tues. 2/14	|	Transformations cont. |	| 
+6	|	Thurs. 2/16	|	Viewing |	| lab 2 due<br>[lab 3: animate a shape]()
 7	|	Tues. 2/21	|	Viewing cont. |	|
-8	| Thurs. 2/23	|	|	|
+8	| Thurs. 2/23	|	|	| lab 3 due<br>
 9	|	Tues. 2/28	|	|	|
 10|	Thurs. 3/2	|	Wordseye: Dr. Bob Coyne |	|
 11|	Tues. 3/7		|	|	|
