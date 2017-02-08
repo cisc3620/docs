@@ -39,6 +39,14 @@ cmake -G "Visual Studio 14" ..
 cmake -G "Visual Studio 14 Win64" ..
 ```
 
+## Branch
+
+*Before* you make any changes, create and switch to a new branch
+
+```git checkout -b hw```
+
+This will make sure the original master branch stays clean, so you can merge back into it with the pull request and have the differences all apparent in one place.
+
 ## Modify
 
 Edit the project files to fulfill the assignment requirements.
