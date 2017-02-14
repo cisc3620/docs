@@ -10,7 +10,7 @@ Lecture | Date | Topic | Slides | More
 1 | Tues. 1/31 | Intro, rendering pipeline | [slides](https://drive.google.com/open?id=0B-t5ghDb_TCqdVJfXzZDYjNkTjQ) | [lab 1: open a window, change the background color](https://classroom.github.com/assignment-invitations/edd15de6d670a75c12c2870611680506)<br> [github instructions](submissions.html)|
 2 | Thurs. 2/2  | Vector math | [slides](https://drive.google.com/open?id=0B-t5ghDb_TCqcHE3WmxQNUlGN00) | 
 3 | Tues. 2/7 | OpenGL | [OpenGL tutorial: "Getting started" through "Hello triangle"](https://www.learnopengl.com) | [vector math review](materials/vector_math_review.pdf)<br>lab 1 due<br>[lab 2: draw a house](https://classroom.github.com/assignment-invitations/6ec0bb99bed4468c83704f40e5bac6a2)
-4	|	Thurs. 2/9	|	OpenGL cont.<br>Transformations |	|
+4	|	Thurs. 2/9	|	OpenGL cont.<br>Transformations |	[slides](https://drive.google.com/open?id=0B-t5ghDb_TCqLWNILTVFUXJ0aFE)<br> [transformations review](https://drive.google.com/open?id=0B-t5ghDb_TCqazlCNjFWWFF3Um8) |
 5	|	Tues. 2/14	|	Transformations cont. |	| 
 6	|	Thurs. 2/16	|	Viewing |	| lab 2 due<br>[lab 3: animate a shape]()
 7	|	Tues. 2/21	|	Viewing cont. |	|
