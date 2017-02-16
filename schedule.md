@@ -12,7 +12,7 @@ Lecture | Date | Topic | Slides | More
 3 | Tues. 2/7 | OpenGL | [OpenGL tutorial: "Getting started" through "Hello triangle"](https://www.learnopengl.com) | [vector math review](materials/vector_math_review.pdf)<br>lab 1 due<br>[lab 2: draw a house](https://classroom.github.com/assignment-invitations/6ec0bb99bed4468c83704f40e5bac6a2)
 4	|	Thurs. 2/9	|	OpenGL cont.<br>Transformations |	[slides](https://drive.google.com/open?id=0B-t5ghDb_TCqLWNILTVFUXJ0aFE)  |[transformations review](https://classroom.github.com/assignment-invitations/9f20913a29d748e4cad988c171ecee07)
 5	|	Tues. 2/14	|	Transformations cont. |	| 
-6	|	Thurs. 2/16	|	Viewing |	| lab 2 due<br>[lab 3: animate a shape](https://github.com/cisc3620/3-animate-drawing)
+6	|	Thurs. 2/16	|	Viewing |	| lab 2 due<br>[lab 3: animate a shape](https://classroom.github.com/assignment-invitations/9f20913a29d748e4cad988c171ecee07)
 7	|	Tues. 2/21	|	Viewing cont. |	|
 8	| Thurs. 2/23	|	|	| lab 3 due<br>
 9	|	Tues. 2/28	|	|	|
