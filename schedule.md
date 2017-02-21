@@ -10,15 +10,15 @@ Lecture | Date | Topic | Slides | More
 1 | Tues. 1/31 | Intro, rendering pipeline | [slides](https://drive.google.com/open?id=0B-t5ghDb_TCqdVJfXzZDYjNkTjQ) | [lab 1: open a window, change the background color](https://classroom.github.com/assignment-invitations/edd15de6d670a75c12c2870611680506)<br> [github instructions](submissions.html)|
 2 | Thurs. 2/2  | Vector math | [slides](https://drive.google.com/open?id=0B-t5ghDb_TCqcHE3WmxQNUlGN00) | 
 3 | Tues. 2/7 | OpenGL | [OpenGL tutorial: "Getting started" through "Hello triangle"](https://www.learnopengl.com) | [vector math review](materials/vector_math_review.pdf)<br>lab 1 due<br>[lab 2: draw a house](https://classroom.github.com/assignment-invitations/6ec0bb99bed4468c83704f40e5bac6a2)
-4	|	Thurs. 2/9	|	OpenGL cont.<br>Transformations |	[slides](https://drive.google.com/open?id=0B-t5ghDb_TCqLWNILTVFUXJ0aFE)  |[transformations review](https://drive.google.com/open?id=0B-t5ghDb_TCqazlCNjFWWFF3Um8)
-5	|	Tues. 2/14	|	Transformations cont. |	| 
-6	|	Thurs. 2/16	|	Viewing |	| lab 2 due<br>[lab 3: animate a shape](https://classroom.github.com/assignment-invitations/9f20913a29d748e4cad988c171ecee07)
-7	|	Tues. 2/21	|	Viewing cont. |	|
-8	| Thurs. 2/23	|	|	| lab 3 due<br>
-9	|	Tues. 2/28	|	|	|
-10|	Thurs. 3/2	|	Wordseye: Dr. Bob Coyne |	|
+4 | Thurs. 2/9	| BROOKLYN COLLEGE CLOSED DUE TO SNOW | | [Go through OpenGL code and tutorial](https://www.learnopengl.com)
+5	|	Tues. 2/14	|	OpenGL cont.<br>Transformations |	[slides](https://drive.google.com/open?id=0B-t5ghDb_TCqLWNILTVFUXJ0aFE)  |[transformations review](https://drive.google.com/open?id=0B-t5ghDb_TCqazlCNjFWWFF3Um8)
+6	|	Thurs. 2/16	|	Tues. 2/14	|	Transformations cont. |	| lab 2 due<br>[lab 3: animate a shape](https://classroom.github.com/assignment-invitations/9f20913a29d748e4cad988c171ecee07)
+7	|	Tues. 2/21	|	Viewing |	[slides](https://drive.google.com/open?id=0B-t5ghDb_TCqZHZTRlUtRDFVU2M)| 
+8	| Thurs. 2/23|	Viewing cont. |	| lab 3 due<br>[lab 4: 3d viewer]()
+9	|	Tues. 2/28|	|	|
+10|	Thurs. 3/2	|	Wordseye: Dr. Bob Coyne |	|lab 4 part 1 due
 11|	Tues. 3/7		|	|	|
-12|	Thurs. 3/9	|	|	|
+12|	Thurs. 3/9	|	|	|	lab 4 part 2 due
 13| Tues. 3/14	|	|	|
 14| Thurs. 3/16 |	__Midterm__ |	|
 15| Tues. 3/21 	| | |
