@@ -11,7 +11,7 @@ __Location__: WEB 129
 
 __Email__: proflevitan at gmail. Subject must include <CISC 3620>. Do not use other emails.
 
-__Office hours__: 9:00-10:45 Tuesday
+__Office hours__: 9:00-10:45 Tuesday (in the classroom)
 
 __url__: https://cisc3620.github.io/docs/syllabus.html
 
