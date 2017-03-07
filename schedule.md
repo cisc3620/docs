@@ -17,7 +17,7 @@ Lecture | Date | Topic | Slides | More
 8	| Thurs. 2/23|	Viewing cont. |	| lab 3 due<br>[lab 4: 3d viewer](https://classroom.github.com/assignment-invitations/b9fac001e52c7f43f05ef2be377d4357)
 9	|	Tues. 2/28|	Viewing wrapup and review<br> (Perspective projection, viewport transformation) || [viewing review](https://drive.google.com/open?id=0B-t5ghDb_TCqV2dscTg0ZU5FUWM)
 10|	Thurs. 3/2	|	Wordseye: Dr. Bob Coyne |	|lab 4 part 1 due
-11|	Tues. 3/7		|	|	|
+11|	Tues. 3/7		|	Lighting |[slides](https://drive.google.com/open?id=0B-t5ghDb_TCqMFQ3ZkVJUnFjYkE)	|
 12|	Thurs. 3/9	|	|	|	lab 4 part 2 due
 13| Tues. 3/14	|	|	|
 14| Thurs. 3/16 |	__Midterm__ |	|
