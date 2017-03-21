@@ -21,7 +21,7 @@ Lecture | Date | Topic | Slides | More
 12|	Thurs. 3/9	|	Lighting cont. | [lighting question](https://drive.google.com/open?id=0B-t5ghDb_TCqZ2MwUFJWeWI2cW8)	|	lab 4 part 2 due
 13| Tues. 3/14	|	BROOKLYN COLLEGE CLOSED AGAIN DUE TO SNOW |	[generated reviews](https://github.com/cisc3620/review/tree/master/generated_reviews)<br> [see message re midterm and reviewing](https://github.com/cisc3620/review/issues/8)<br>|
 14| Thurs. 3/16 |	__Midterm__ |	|
-15| Tues. 3/21 	| Ray tracing | (slides)[https://drive.google.com/file/d/0B-t5ghDb_TCqX0pwdnFoVWtndHM/view?usp=sharing] |
+15| Tues. 3/21 	| Ray tracing | [slides](https://drive.google.com/file/d/0B-t5ghDb_TCqX0pwdnFoVWtndHM/view?usp=sharing) |
 16|	Thurs. 3/23	| | |
 17| Tues. 3/28	| | |
 18| Thurs. 3/30	| | |
