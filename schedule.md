@@ -22,7 +22,7 @@ Lecture | Date | Topic | Slides | More
 13| Tues. 3/14	|	BROOKLYN COLLEGE CLOSED AGAIN DUE TO SNOW |	[generated reviews](https://github.com/cisc3620/review/tree/master/generated_reviews)<br> [see message re midterm and reviewing](https://github.com/cisc3620/review/issues/8)<br>|
 14| Thurs. 3/16 |	__Midterm__ |	|
 15| Tues. 3/21 	| Ray tracing | [slides](https://drive.google.com/file/d/0B-t5ghDb_TCqX0pwdnFoVWtndHM/view?usp=sharing) | [lab 5](https://classroom.github.com/assignment-invitations/53fc4da46f30fa889d635a13de66432d)
-16|	Thurs. 3/23	| | |
+16|	Thurs. 3/23	| Barycentric coordinates | [questions](https://drive.google.com/file/d/0B-t5ghDb_TCqN1FhaDhiT3Z6X0U/view?usp=sharing) |
 17| Tues. 3/28	| | |
 18| Thurs. 3/30	| | |
 19| Tues. 4/4		| | |
