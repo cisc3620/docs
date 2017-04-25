@@ -24,14 +24,14 @@ Lecture | Date | Topic | Materials | More
 15| Tues. 3/21 	| Ray tracing | [slides](https://drive.google.com/file/d/0B-t5ghDb_TCqX0pwdnFoVWtndHM/view?usp=sharing) | [lab 5](https://classroom.github.com/assignment-invitations/53fc4da46f30fa889d635a13de66432d)
 16|	Thurs. 3/23	| Barycentric coordinates | [questions](https://drive.google.com/file/d/0B-t5ghDb_TCqN1FhaDhiT3Z6X0U/view?usp=sharing)<br> FOCG 2.7|
 17| Tues. 3/28	| Ray-triangle intersection | RTR 16.8 |
-18| Thurs. 3/30	| | |	[lab 6](https://classroom.github.com/assignment-invitations/92b0f9d9054a3cae855e06dd0cbde6df)
-19| Tues. 4/4		| | |
-20| Thurs. 4/6	| | |
+18| Thurs. 3/30	| Ray tracing cont. | |	[lab 6](https://classroom.github.com/assignment-invitations/92b0f9d9054a3cae855e06dd0cbde6df)
+19| Tues. 4/4		| Ray tracing cont. | |
+20| Thurs. 4/6	| Acecleration data structures | |
 	| Tues. 4/11  | __Spring break__ | |
 	| Thurs. 4/13  | __Spring break__ | |
 	| Tues. 4/18  | __Spring break__ | |
 	|	Thurs. 4/20	| __Thursday is a Monday__ | |
-21| Tues. 4/25  | | |
+21| Tues. 4/25  | Texture mapping | [slides](https://drive.google.com/open?id=0B-t5ghDb_TCqVlZacU5TdTA3aUk)<br>RTR 6 |
 22| Thurs. 4/27	| | |
 23| Tues. 5/2		| | |
 24| Thurs. 5/4	| | |
