@@ -32,8 +32,8 @@ Lecture | Date | Topic | Materials | More
 	| Tues. 4/18  | __Spring break__ | |
 	|	Thurs. 4/20	| __Thursday is a Monday__ | |
 21| Tues. 4/25  | Texture mapping | [slides](https://drive.google.com/open?id=0B-t5ghDb_TCqVlZacU5TdTA3aUk)<br>RTR 6 | [lab 7 assigned](https://classroom.github.com/assignment-invitations/6afd8218ce88fba11ca9be763576c12a)<br>[hw target example](http://www.sci.brooklyn.cuny.edu/~levitan/cisc3620/materials/texture.mov)<br>[hw before changes](http://www.sci.brooklyn.cuny.edu/~levitan/cisc3620/materials/hw-before.mov)
-22| Thurs. 4/27	| | |
-23| Tues. 5/2		| | |
+22| Thurs. 4/27	| Texture mapping cont. (sampling) | |
+23| Tues. 5/2		| Texture mapping (other than color) | [slides](https://drive.google.com/open?id=0B-t5ghDb_TCqSjM0anVRVjVJR2M) |
 24| Thurs. 5/4	| | | lab 7 due 11:59pm
 25| Tues. 5/9		| | |
 26| Thurs. 5/11	| | |
