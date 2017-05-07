@@ -34,10 +34,10 @@ Lecture | Date | Topic | Materials | More
 21| Tues. 4/25  | Texture mapping | [slides](https://drive.google.com/open?id=0B-t5ghDb_TCqVlZacU5TdTA3aUk)<br>RTR 6 | [lab 7 assigned](https://classroom.github.com/assignment-invitations/6afd8218ce88fba11ca9be763576c12a)<br>[hw target example](http://www.sci.brooklyn.cuny.edu/~levitan/cisc3620/materials/texture.mov)<br>[hw before changes](http://www.sci.brooklyn.cuny.edu/~levitan/cisc3620/materials/hw-before.mov)
 22| Thurs. 4/27	| Texture mapping cont. (sampling) | |
 23| Tues. 5/2		| Texture mapping (other than color) | [slides](https://drive.google.com/open?id=0B-t5ghDb_TCqSjM0anVRVjVJR2M) |
-24| Thurs. 5/4	| Advanced texture mapping | [Approximate bidirectional texture functions](https://developer.nvidia.com/gpugems/GPUGems2/gpugems2_chapter11.html) | lab 7 due 11:59pm
+24| Thurs. 5/4	| Advanced texture mapping | [Approximate bidirectional texture functions](https://developer.nvidia.com/gpugems/GPUGems2/gpugems2_chapter11.html) | lab 7 due 11:59pm<br> [lab 8 assigned](https://classroom.github.com/assignment-invitations/9ff8c1d44b47e80cb0ded093bb7922f2)
 25| Tues. 5/9		| | |
 26| Thurs. 5/11	| | |
 27| Tues. 5/16	| | |
-28| Thurs. 5/18	| | |
+28| Thurs. 5/18	| | | lab 8 due
   | Tues. 5/23 | __Final__ |
 {:mbtablestyle}
